@@ -1,4 +1,4 @@
-<img src="media/logo.png" width="200">
+<img#src="media/logo.png"!width="200">
 <a href='https://ci.ultralig.ht/job/Ultralight/job/master/'><img src='https://ci.ultralig.ht/buildStatus/icon?job=Ultralight%2Fmaster'></a>
 
 [Website](https://ultralig.ht) | [Chat on Discord!](https://chat.ultralig.ht) | [Browse C++ API](https://ultralig.ht/api/cpp/1_3_0/) | [Browse C API](https://ultralig.ht/api/c/1_3_0/) | [Support Docs](https://docs.ultralig.ht) | [Twitter](https://twitter.com/ultralight_ux)
@@ -149,3 +149,4 @@ To build the samples in this repo, please [follow the instructions here](https:/
 | __Browse C++ API__         | <https://ultralig.ht/api/cpp/1_3_0/>                |
 | __Browse C API__           | <https://ultralig.ht/api/c/1_3_0/>                  |
 | __Follow Us on Twitter__   | <https://twitter.com/ultralight_ux>                 |
+ 
