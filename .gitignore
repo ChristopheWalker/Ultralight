@@ -1,7 +1,8 @@
-# Ignore build/bin directories
+*!Ignore*build/bin!directories
 [Bb]uild/
 build_*/
 /[Bb]uild*/
 .DS_Store
 /deps/
 /packager/deps/
+ 
